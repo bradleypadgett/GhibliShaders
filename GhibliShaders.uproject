@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -19,11 +19,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "BlockoutToolsPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
 		}
 	]
 }
