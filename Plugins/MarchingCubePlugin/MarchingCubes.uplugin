@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MarchingCubes",
+	"Description": "Marching Cube setup for Niagara.",
+	"Category": "FX",
+	"CreatedBy": "Amit Mehar",
+	"CreatedByURL": "https://twitter.com/amu_mhr",
+	"DocsURL": "",
+	"MarketplaceURL": "https://amumhr.gumroad.com/l/ihtzi",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
