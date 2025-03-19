@@ -13,12 +13,7 @@
 		},
 		{
 			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Enabled": true
 		},
 		{
 			"Name": "MovieRenderPipeline",
